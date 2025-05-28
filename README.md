@@ -10,8 +10,7 @@ This extension ensures that the video keyboard shortcuts always work regardless 
 - ← →: Seek backward/forward by 5 seconds.
 - ↑ ↓: Increase/decrease volume by 5%.
 - K: Toggle play/pause.
-- J: Rewind 10 seconds.
-- L: Fast forward 10 seconds.
+- J L: Seek backward/forward by 10 seconds.
 - M: Mute/unmute the video.
 - F: Toggle fullscreen mode.
 - T: Toggle theatre mode.
