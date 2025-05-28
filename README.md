@@ -4,7 +4,8 @@
   <img width='128' src="icons/icon256.png" alt="Alt Text">
 </p>
 
-This extension ensures that the video keyboard shortcuts always work regardless of the focus on the player.
+This extension ensures that the video keyboard shortcuts always work regardless of the focus on the player.  
+This project is a fork of [YouTube Arrow Keys Fix](https://github.com/JParramore/youtube-arrow-keys-fix) by [Jerome Parramore](https://github.com/JParramore).  
 
 ## Globalised Shortcuts
 - ← →: Seek backward/forward by 5 seconds.
