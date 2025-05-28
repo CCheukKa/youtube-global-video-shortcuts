@@ -21,7 +21,7 @@ This project is a fork of [YouTube Arrow Keys Fix](https://github.com/JParramore
 ## Installation
 
 ### Chrome Web Store
-You can install it in from the Chrome web store [here](https://chrome.google.com/webstore/detail/youtube-arrow-keys-fix/hbnlngeljeofecndhmebgpgpccfnkgjb).
+You can install it in from the Chrome web store [here](https://chromewebstore.google.com/detail/bclppidcoklfgbehahckbadigkefclda).
 
 ### Manual Installation
 1. Clone the repo.
