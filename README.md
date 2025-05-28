@@ -8,14 +8,14 @@ This extension ensures that the video keyboard shortcuts always work regardless 
 This project is a fork of [YouTube Arrow Keys Fix](https://github.com/JParramore/youtube-arrow-keys-fix) by [Jerome Parramore](https://github.com/JParramore).  
 
 ## Globalised Shortcuts
-- ← →: Seek backward/forward by 5 seconds.
-- ↑ ↓: Increase/decrease volume by 5%.
-- K: Toggle play/pause.
-- J L: Seek backward/forward by 10 seconds.
-- M: Mute/unmute the video.
-- F: Toggle fullscreen mode.
-- T: Toggle theatre mode.
-- 0-9: Jump to a specific percentage of the video (0% to 90%).
+- ← →: Seek backward/forward by 5 seconds
+- ↑ ↓: Increase/decrease volume by 5%
+- K: Toggle play/pause
+- J L: Seek backward/forward by 10 seconds
+- M: Mute/unmute the video
+- F: Toggle fullscreen mode
+- T: Toggle theatre mode
+- 0-9: Jump to a specific percentage of the video (0% to 90%)
 
 ## Installation
 
