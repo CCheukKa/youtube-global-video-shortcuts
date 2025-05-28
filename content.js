@@ -16,7 +16,7 @@
             return;
         }
 
-        if (controls.contains(document.activeElement)) {
+        if (document.activeElement.contains(controls)) {
             e.preventDefault();
             const clone = new KeyboardEvent(e.type, e);
             video.dispatchEvent(clone);
