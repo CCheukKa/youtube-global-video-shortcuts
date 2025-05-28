@@ -1,7 +1,7 @@
 # YouTube Global Video Shortcuts
 
 <p align="center">
-  <img width='128' src="icons/icon256.png" alt="Alt Text">
+  <img width='128' src="icons/icon256.png">
 </p>
 
 This extension ensures that the video keyboard shortcuts always work regardless of the focus on the player.  
