@@ -13,6 +13,7 @@ This project is a fork of [YouTube Arrow Keys Fix](https://github.com/JParramore
 - K: Toggle play/pause
 - J L: Seek backward/forward by 10 seconds
 - M: Mute/unmute the video
+- C: Toggle captions on/off
 - F: Toggle fullscreen mode
 - T: Toggle theatre mode
 - 0-9: Jump to a specific percentage of the video (0% to 90%)
